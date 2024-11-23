@@ -1,7 +1,3 @@
-Claro! Aqui está um modelo de **README.md** descontraído e com emojis, que descreve o passo a passo do seu projeto. O código também está incluso, conforme solicitado. Fique à vontade para personalizar conforme necessário.
-
----
-
 # 📸 Blog de Fotos - API com Node.js & MongoDB
 
 Bem-vindo ao repositório do nosso **Blog de Fotos**! 📸✨
