@@ -1,8 +1,8 @@
 # Blog de Fotos - API com Node.js & MongoDB 📸✨
 
-<img src="/imagem/Projeto.png">
+Bem-vindo ao projeto **Blog de Fotos API**! 📸 Neste repositório, você aprenderá como criar uma API completa, que inclui upload de imagens, integração com o Google Gemini para geração de descrições automáticas e como usar o MongoDB para armazenar dados de forma eficiente.
 
-Bem-vindo ao projeto **Blog de Fotos API**! 📸 Neste repositório, você aprenderá como criar uma API completa, que inclui upload de imagens, integração com o Google Gemini para geração de descrições automáticas e como usar o MongoDB para armazenar dados de forma eficiente. Vamos nessa jornada de desenvolvimento juntos? 🚀
+<img src="/imagem/Projeto.png">
 
 ---
 
